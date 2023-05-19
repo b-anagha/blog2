@@ -1,7 +1,7 @@
 import { api_text } from "../../constants/api";
 import React from "react"
 import { motion } from "framer-motion"
-import styles from "C:/IEEE_projects/blog2/src/constants/style.js"
+import styles from "../../constants/style"
 function Rate() {
     return (
         <motion.div

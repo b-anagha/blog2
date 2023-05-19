@@ -1,7 +1,6 @@
 import React from "react"
 import { motion } from "framer-motion"
-import {http_rq_text} from "C:/IEEE_projects/blog2/src/constants/http-req"
-import styles from "C:/IEEE_projects/blog2/src/constants/style.js"
+import styles from "../../../constants/style"
 import { http_rs_text } from "../../../constants/http-rsp"
 function Redirects() {
     return (
